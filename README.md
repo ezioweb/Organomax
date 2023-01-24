@@ -10,7 +10,7 @@ App para mostrar as esquipesa que trabalham em uma empresa.
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/ezioweb/Organomax/blob/main/public/imagens/organomax.png)
+![](https://github.com/ezioweb/Organomax/blob/main/public/imagens/organomax.png#vitrinedev)
 
 ## Detalhes do projeto
 
