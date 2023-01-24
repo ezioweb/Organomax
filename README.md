@@ -1,6 +1,6 @@
 # Organomax
 
-Estudar e desenvolver um projeto com React
+App para mostrar as esquipesa que trabalham em uma empresa.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -10,10 +10,10 @@ Estudar e desenvolver um projeto com React
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/ezioweb/Organomax/blob/main/public/imagens/organomax.png)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto feito no curso de React da Allura
 
 [Projeto React](https://organomax-ezioweb.vercel.app/) - Link para o projeto hospedado no Vercel
