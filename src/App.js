@@ -4,6 +4,7 @@ import Formulario from './componentes/Formulario';
 import Rodape from './componentes/Rodape';
 import Time from './componentes/Time';
 
+
 function App() {
 
   const times = [
@@ -47,7 +48,6 @@ function App() {
   const [colaboradores, setColaboradores] = useState([])
 
   const aoNovoColaboradorAdicionado = (colaborador) => {
-    debugger
     setColaboradores([...colaboradores, colaborador])
   }
 
